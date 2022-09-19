@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'PacitanWoluDemo-1GDGZ';
+    src: url('../fonts/PacitanWoluDemo-1GDGZ.ttf');
+}
+
+@font-face {
+    font-family: 'G';
+    src: url('../fonts/PacitanEnemDemo-z8X8X.ttf');
+}
+
+#title {
+    font-family: 'PacitanWoluDemo-1GDGZ';
+}
+
+#copy {
+    font-family: 'G';
+}
